@@ -1,4 +1,4 @@
-High-Level Design Document for Earthquake Damage Prediction Project
+High-Level Design Document for Earthquake Damage Prediction Project.
 
 1. Introduction
 
