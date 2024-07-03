@@ -7,7 +7,6 @@ seaborn
 sklearn
 Logistic Reagression
 MultinomialNB (Naive Bayes)
-KNeighborsClassifier
 SVC [support vector Classifier]
 DecisionTreeClassifier
 RandomForestClassifier
